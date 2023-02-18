@@ -1,6 +1,6 @@
 # NX19
 Summary:  
-Japanese http://robotakao.jp/NX19/index.html
+Japanese http://robotakao.jp/NX19/index.html 
 English http://robotakao.jp/NX18/e/index.html
 
 [Controll with Dabble]  

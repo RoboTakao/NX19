@@ -1,15 +1,3 @@
-/*
-*******************************************************************************
-* Copyright (c) 2021 by M5Stack
-*                  Equipped with M5StickC / M5StickCPlus sample source code
-* Visit for more information: https://docs.m5stack.com/en/hat/hat-joyc
-*
-* Product: JoyC.
-* Date: 2022/9/17
-*******************************************************************************
-  Please connect to Port,
-  Read JOYSTICK Unit X, Y axis offset data and button status
-*/
 #include <M5StickC.h>
 #include "Hat_JoyC.h"
 #include <BLEDevice.h>

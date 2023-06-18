@@ -1,5 +1,5 @@
 # NX19
-![image](NX19_.jpg)
+![image](NX19_Picture.jpg)
 
 Summary:  
 Japanese http://robotakao.jp/NX19/index.html  

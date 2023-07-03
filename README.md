@@ -2,8 +2,8 @@
 ![image](NX19_Picture.jpg)
 
 Summary:  
-Japanese http://robotakao.jp/NX19/index.html  
-English http://robotakao.jp/NX19/e/index.html
+Japanese http://robotakao.web.fc2.com/NX19/index.html  
+English http://robotakao.web.fc2.com/NX19/e/index.html
 
 [Controll with Dabble]  
 &emsp;M5Stamp C3 sketch : NX19_M5Stamp_C3_ik_UnitV_IMU.ino  
